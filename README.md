@@ -3,7 +3,7 @@
 * Language used :- 
      Java Swing,
      Core Java,
-     MYSQL
+     MYSQL db
      
      
 This Project is about to Management of Hotels in which adding the Rooms, workers or employees, pick-up services, General Manager and adding the Guests with allocate him/her a room either single bed or double beds according to the requirements of the guests features are available.
